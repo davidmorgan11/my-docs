@@ -3,5 +3,5 @@ nav:
     - Home: index.md
     - Angular: angular.md
     - Firebase: firebase.md
-theme:
-  name: material
+# theme:
+#   name: material
