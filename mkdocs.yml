@@ -1,4 +1,5 @@
 site_name: My Docs
 nav:
     - Home: index.md
+    - Angular: angular.md
     - Firebase: firebase.md
