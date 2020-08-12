@@ -3,5 +3,7 @@ nav:
     - Home: index.md
     - Angular: angular.md
     - Firebase: firebase.md
+    - Java: java.md
+    - Linux: linux.md
 # theme:
 #   name: material
